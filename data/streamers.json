@@ -1,0 +1,200 @@
+streamers = [
+{
+    name: 'Zyfer',
+    avatar: {
+      href: 'http://twitch.tv/ZyferTV',
+      image: {
+          src: 'img/streamers/zyfer.png'
+      }
+    },
+    description: 'My name is Luke, I\'m a \"Extroverted Introvert\", what that means I love meeting new people and I\'m also an avid gamer. Take these two and combine them and you get a Streamer. Ever since a young age gaming for me is something of a passion. Exploring new perspectives and ideas and meeting new people are both one in the same to me.',
+    social: {
+      Twitch: {
+        url: 'http://twitch.tv/zyfertv',
+        image: {
+          src: 'img/icons/twitch.png',
+          alt: 'Twitch Logo'
+        }
+      },
+      Twitter: {
+        url: 'https://twitter.com/zyfertv',
+        image: {
+          src: 'img/icons/twitter.png',
+          alt: 'Twitter Logo'
+        }
+      },
+      YouTube: {
+        url: 'https://www.youtube.com/channel/UCzZOkLk2AItrW43A75kW04A',
+        image: {
+          src: 'img/icons/youtube.png',
+          alt: 'YouTube Logo'
+        }
+      }
+    }
+},
+{
+    name: 'Samy',
+    avatar: {
+      href: 'http://twitch.tv/SamuIvory',
+      image: {
+          src: 'img/streamers/samu.png'
+      }
+    },
+    description: 'Hi I\'m Samu! Any way of saying Sam I go by so whatever counts. I\'m a Twitch Affiliate who mostly streams anything that seems Interesting and fun. I to be honest Don\'t really know what to say In these things So I\'ll be plain in simple. I\'m 21, Male whos is easy to get to know. I mostly stream VRChat. If you really wanted to learn more about me feel free to ask away next time I am live over at my Stream. Talking to me in my chat is going to be one of the best ways to get to know me better',
+    social: {
+      Twitch: {
+        url: 'http://twitch.tv/SamuIvory',
+        image: {
+          src: 'img/icons/twitch.png',
+          alt: 'Twitch Logo'
+        }
+      },
+      Twitter: {
+        url: 'https://twitter.com/SamuIvory',
+        image: {
+          src: 'img/icons/twitter.png',
+          alt: 'Twitter Logo'
+        }
+      },
+      YouTube: {
+        url: 'https://www.youtube.com/channel/UCNy1-m3QpFNEMYZWIDf6y3Q',
+        image: {
+          src: 'img/icons/youtube.png',
+          alt: 'YouTube Logo'
+        }
+      }
+    }
+},
+{
+    name: 'Boopie',
+    avatar: {
+      href: 'http://twitch.tv/BoopieChan',
+      image: {
+          src: 'img/streamers/boopie.png'
+      }
+    },
+    description: 'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using \'Content here, content here\', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for \'lorem ipsum\' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).',
+    social: {
+      Twitch: {
+        url: 'http://twitch.tv/BoopieChan',
+        image: {
+          src: 'img/icons/twitch.png',
+          alt: 'Twitch Logo'
+        }
+      },
+      Twitter: {
+        url: 'https://twitter.com/BoopieChan',
+        image: {
+          src: 'img/icons/twitter.png',
+          alt: 'Twitter Logo'
+        }
+      },
+      YouTube: {
+        url: 'https://www.youtube.com/channel/UCNy1-m3QpFNEMYZWIDf6y3Q',
+        image: {
+          src: 'img/icons/youtube.png',
+          alt: 'YouTube Logo'
+        }
+      }
+    }
+},
+{
+    name: 'CodysUniverse',
+    avatar: {
+      href: 'http://twitch.tv/codysuniverse',
+      image: {
+          src: 'img/streamers/cody.png'
+      }
+    },
+    description: 'EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEh',
+    social: {
+      Twitch: {
+        url: 'http://twitch.tv/codysuniverse',
+        image: {
+          src: 'img/icons/twitch.png',
+          alt: 'Twitch Logo'
+        }
+      },
+      Twitter: {
+        url: 'https://twitter.com/codysuniverse',
+        image: {
+          src: 'img/icons/twitter.png',
+          alt: 'Twitter Logo'
+        }
+      },
+      YouTube: {
+        url: 'https://www.youtube.com/channel/UCNy1-m3QpFNEMYZWIDf6y3Q',
+        image: {
+          src: 'img/icons/youtube.png',
+          alt: 'YouTube Logo'
+        }
+      }
+    }
+},
+{
+    name: 'TatsuHachi',
+    avatar: {
+      href: 'http://twitch.tv/TatsuHachi',
+      image: {
+          src: 'img/streamers/TatsuHachi.png'
+      }
+    },
+    description: 'Heyo, Im Ryan and I\'m a 23 year old introverted gamer from New York that likes to laugh at everything. Been streamin\' on twitch since around 2016. I play all types of different games ranging from Fire Emblem to KingdomHearts to Destiny 2. If that sounds like somethin you\'re interested in then feel free to stick around!',
+    social: {
+      Twitch: {
+        url: 'http://twitch.tv/TatsuHachi',
+        image: {
+          src: 'img/icons/twitch.png',
+          alt: 'Twitch Logo'
+        }
+      },
+      Twitter: {
+        url: 'https://twitter.com/TatsuHachii',
+        image: {
+          src: 'img/icons/twitter.png',
+          alt: 'Twitter Logo'
+        }
+      },
+      Instagram: {
+        url: 'https://www.instagram.com/',
+        image: {
+          src: 'img/icons/instagram.png',
+          alt: 'Instagram Logo'
+        }
+      }
+    }
+},
+{
+    name: 'Atirion',
+    avatar: {
+      href: 'http://twitch.tv/atiriontv',
+      image: {
+          src: 'img/streamers/atirion.png'
+      }
+    },
+    description: 'I\'m a part-time streamer who delights in entertaining others. I\'m based in Norway and have been playing games since your grandparents were born. It\'s been a long time but one of my earliest memories is playing Tomb Raider on the Playstation. Without a doubt, my favorite game from all of my gaming experience is Dark Souls. For some reason I loved the thrill of being knocked into a cycle of hopelessness.',
+    social: {
+      Twitch: {
+        url: 'http://twitch.tv/atiriontv',
+        image: {
+          src: 'img/icons/twitch.png',
+          alt: 'Twitch Logo'
+        }
+      },
+      Twitter: {
+        url: 'https://twitter.com/atiriontv',
+        image: {
+          src: 'img/icons/twitter.png',
+          alt: 'Twitter Logo'
+        }
+      },
+      YouTube: {
+        url: 'https://www.youtube.com/channel/atiriontv',
+        image: {
+          src: 'img/icons/youtube.png',
+          alt: 'YouTube Logo'
+        }
+      }
+    }
+}
+];
